@@ -1,4 +1,4 @@
-public class Zxc {
+public class TRPO {
     public static void main(String[] args) {
         String surname = "Gusakov";
         String subject = "TRPO";
